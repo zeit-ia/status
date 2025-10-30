@@ -6,9 +6,9 @@ sites:
   - name: Nira
     url: https://nira.zeit.com.br
   - name: Nira (API)
-    url: https://nira.zeit.com.br/ api/actuator/health
+    url: https://nira.zeit.com.br/api/actuator/health
   - name: Zeit Agro
-    url: https://ageo.zeit.com.br
+    url: https://agoo.zeit.com.br
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
