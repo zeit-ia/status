@@ -24,7 +24,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/zeit-ia/zeit-ia.github.io/refs/heads/main/src/shared-images/zeit.svg
   name: Zeit Status
-  theme: ocean
+  theme: light
   introTitle: Status dos serviços Zeit
   introMessage: ""
   navbar:
