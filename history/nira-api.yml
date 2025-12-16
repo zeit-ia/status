@@ -1,7 +1,7 @@
 url: https://nira.zeit.com.br/api/actuator/health
 status: up
 code: 200
-responseTime: 27
-lastUpdated: 2025-12-15T23:23:53.498Z
+responseTime: 23
+lastUpdated: 2025-12-16T23:23:13.961Z
 startTime: 2025-10-30T23:24:02.321Z
 generator: Upptime <https://github.com/upptime/upptime>
