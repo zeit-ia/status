@@ -1,7 +1,7 @@
 url: https://nira.zeit.com.br/api/actuator/health
-status: down
-code: 503
-responseTime: 205
-lastUpdated: 2025-12-31T03:40:26.388Z
+status: up
+code: 200
+responseTime: 229
+lastUpdated: 2025-12-31T20:49:18.300Z
 startTime: 2025-10-30T23:24:02.321Z
 generator: Upptime <https://github.com/upptime/upptime>
