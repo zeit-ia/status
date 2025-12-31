@@ -4,7 +4,7 @@
     "url": "https://nira.zeit.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/nira.zeit.com.br.ico",
     "slug": "nira",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 640,
     "timeMonth": 619,
     "timeYear": 583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-31": 0
+    }
   },
   {
     "name": "Nira (API)",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nira.zeit.com.br.ico",
     "slug": "nira-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.86%",
+    "uptimeDay": "29.56%",
+    "uptimeWeek": "89.94%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "98.86%",
     "time": 112,
     "timeDay": 210,
     "timeWeek": 149,
     "timeMonth": 117,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-12-31": 0
+      "2025-12-31": 1014
     }
   },
   {
