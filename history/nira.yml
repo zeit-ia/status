@@ -1,7 +1,7 @@
 url: https://nira.zeit.com.br
-status: up
+status: degraded
 code: 200
-responseTime: 805
-lastUpdated: 2026-01-23T23:25:20.986Z
+responseTime: 22508
+lastUpdated: 2026-01-24T01:53:18.881Z
 startTime: 2025-10-30T23:24:01.605Z
 generator: Upptime <https://github.com/upptime/upptime>
